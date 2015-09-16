@@ -2,5 +2,5 @@
 name:
    first: Jeffrey
    last: Ning
-email: jeffrey.ning@nyu.edu
+email: jkn233@nyu.edu
 leaderboard: I_like_free_food
