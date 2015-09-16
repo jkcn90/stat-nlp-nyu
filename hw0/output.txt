@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Jeffrey
+   last: Ning
+email: jeffrey.ning@nyu.edu
+leaderboard: I_like_free_food
